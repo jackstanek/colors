@@ -30,3 +30,19 @@ h1 {
     margin: 0 0 1em 0;
     padding-top: 1em;
 }
+
+.weblink {
+    display: block;
+}
+
+.weblink, .weblink:visited {
+    color: #0f0;
+}
+
+.weblink:hover {
+    color: #f80;
+}
+
+.weblink:active {
+    color: #ff0;
+}
